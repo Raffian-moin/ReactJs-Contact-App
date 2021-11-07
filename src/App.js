@@ -10,12 +10,12 @@ function App() {
     {
       id: 1,
       name: "moin",
-      id: "raffainmoin69@gmail.com",
+      email: "raffainmoin69@gmail.com",
     },
     {
       id: 2,
       name: "spiderman",
-      id: "spiderman@gmail.com",
+      email: "spiderman@gmail.com",
     },
   ];
   return (
